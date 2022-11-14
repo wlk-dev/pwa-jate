@@ -1,4 +1,10 @@
 const express = require('express');
+const fs = require('fs');
+const dir = '../client/dist';
+
+if (!fs.existsSync(dir)){
+    fs.mkdirSync(dir);
+}
 
 const app = express();
 const PORT = process.env.PORT || 3000;
