@@ -24,4 +24,8 @@ N/A
 ## Questions
 [wlk-dev](https://github.com/wlk-dev)
 
+<<<<<<< HEAD
 [william.koelling@gmail.com](william.koelling@gmail.com)
+=======
+[william.koelling@gmail.com](william.koelling@gmail.com)
+>>>>>>> edd721e890fbbbf805485a62690abbb655edcc16
