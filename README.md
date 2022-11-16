@@ -14,7 +14,7 @@ A generic PWA text editor.
 ## Installation
 `git clone`
 ## Usage
-Install as a browser APP.
+Install as a browser APP from the [deployed site.](https://pwa-jate-production.up.railway.app/)
 ## License
 This project is covered under the [MIT](https://opensource.org/licenses/MIT) license.
 ## Contribution Guidelines
