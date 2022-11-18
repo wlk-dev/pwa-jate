@@ -12,7 +12,7 @@
 ## Description
 A generic PWA text editor.
 ## Installation
-`git clone`
+`git clone https://github.com/wlk-dev/pwa-jate.git`
 ## Usage
 Install as a browser APP from the [deployed site.](https://pwa-jate-production.up.railway.app/)
 ## License
